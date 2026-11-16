@@ -1,127 +1,148 @@
-## 1. 踝足运动损伤与预防
+## 1. 踝足损伤的功能障碍
 
-体育学科课程，建议根据授课时长选取核心踝扭伤部分或完整讲授。全课涵盖踝扭伤、跟腱病与断裂、足底筋膜、胫骨内侧应力综合征及骨折。核心主线是运动动作、负荷、识别和预防。
-来源：教材 p.164—169 · 预防拓展。图形为原创可编辑教学示意，非比例解剖图。
+按教材损伤种类顺序讲解。每种损伤内部依次讲损伤机制、诊断标准/线索、主要功能障碍；随后补充足球专项预防，再进入下一种损伤。预防是教学拓展，不伪装成原教材内容。
+内容依据：教材 p.164—169。医学插图用于结构理解，不代表本页案例的诊断。
+封面配图：{"source": "https://commons.wikimedia.org/wiki/File:Blausen_0411_FootAnatomy_zh.png", "creator": "File:Blausen 0411 FootAnatomy.png: BruceBlaus. When using this image in external sources it can be cited as:\nBlausen.com staff (2014). \"Medical gallery of Blausen Medical 2014\". WikiJournal of Medicine 1 (2). DOI:10.15347/wjm/2014.010. ISSN 2002-4436.\nderivative work: GnolizX", "license": "CC BY 3.0", "license_url": "https://creativecommons.org/licenses/by/3.0", "changes": "SVG转PNG或缩放", "kind": "人体医学插图"}
+封面正常踢球GIF：{"source": "https://github.com/convderover/broadcast-kick-biomechanics", "creator": "Roberto Martín Gutiérrez, 2026", "license": "CC BY 4.0（仓库 docs/ 与 resultados/ 中的图文视频）", "license_url": "https://creativecommons.org/licenses/by/4.0/", "changes": "resultados/videos/07_golpeo_real_autor.mp4 转GIF，缩放、降帧、去音轨", "kind": "作者本人正常踢球慢动作；非受伤录像、非损伤预测证据"}
 
-## 2. 落地踩到别人脚上，为什么会“崴脚”？
+## 2. 教材讲解顺序：逐项学习，逐项配套预防
 
-虚构篮球落地情境。先问学生看见了什么，再问哪些诊断结论不能仅靠动作外观确定。借鉴GitHub运动伤害图鉴的“可见事件与医学判断分开”组织方式：https://github.com/keanu77/professional-sports-injury-atlas
-来源：教材 p.164 · 教学情境。图形为原创可编辑教学示意，非比例解剖图。
+本页只展示顺序。各损伤的预防跟随该项教材内容之后，不把所有预防集中放在课程末尾。
+内容依据：教材 p.164—169。医学插图用于结构理解，不代表本页案例的诊断。
 
-## 3. 认识踝外侧韧带：稳定从何而来？
+## 3. 一、踝关节扭伤：损伤机制
 
-教材为骨性与韧带结构依据；动态稳定为JOSPT2021补充。https://doi.org/10.2519/jospt.2021.0302
-来源：教材 p.164。图形为原创可编辑教学示意，非比例解剖图。
+按教材踝关节扭伤（一）损伤机制讲解，足球研究用于情境补充。https://doi.org/10.1002/ksa.70049
+内容依据：教材 p.164—165。医学插图用于结构理解，不代表本页案例的诊断。
+素材信息：{"source": "https://commons.wikimedia.org/wiki/File:Ankle_en.svg", "creator": "An svg version of image:Ankle.PNG by me (Jak).", "license": "Public domain", "license_url": "", "changes": "缩放；SVG转PNG（如适用）", "kind": "解剖/医学插图"}
 
-## 4. 跖屈 + 内翻：外侧扭伤的典型情境
+## 4. 一、踝关节扭伤：争顶落地的受伤图帧
 
-教材描述踝跖屈位内翻是常见情境。足尖向下时踝穴适配较松，内翻牵拉外侧韧带，距腓前韧带常受累。不是所有扭伤都只有这一机制；外翻与外旋可累及其他结构。
-来源：教材 p.164。图形为原创可编辑教学示意，非比例解剖图。
+原文图2(c1—c4)：争顶、落地接触对手脚、估计受伤帧、失衡后恢复。按原顺序制作GIF，是离散研究图帧，不是连续录像，也不是精确到毫秒的测量。论文及图2：https://doi.org/10.1002/ksa.70049
+内容依据：教材 p.164 · Buckthorpe et al., 2025。医学插图用于结构理解，不代表本页案例的诊断。
+素材信息：{"source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12582226/", "creator": "Buckthorpe et al., KSSTA 2025, Figure 2(c1–c4)", "license": "CC BY 4.0（原文）", "license_url": "https://creativecommons.org/licenses/by/4.0/", "changes": "提取图2(c1–c4)，按原顺序重排为GIF并标注；不是连续录像", "kind": "真实比赛研究图帧序列（踝扭伤）"}
 
-## 5. 扭伤严重度：重点看功能与稳定性
+## 5. 一、踝关节扭伤：诊断与功能障碍
 
-教材列I—III级，包含疼痛、肿胀、活动度和韧带松弛。本课简化为严重度理解，不以肿胀厘米数或疼痛程度现场定级。学生不互相进行应力试验，临床分级由专业评估完成。
-来源：教材 p.164—165。图形为原创可编辑教学示意，非比例解剖图。
+教材列举的专项试验作为判断线索，需要病史、体征与必要影像相互印证；由专业人员检查。讲解顺序为先诊断线索，再主要功能障碍。
+内容依据：教材 p.164—165。医学插图用于结构理解，不代表本页案例的诊断。
+素材信息：{"source": "https://commons.wikimedia.org/wiki/File:Ankle_en.svg", "creator": "An svg version of image:Ankle.PNG by me (Jak).", "license": "Public domain", "license_url": "", "changes": "缩放；SVG转PNG（如适用）", "kind": "解剖/医学插图"}
 
-## 6. “只是崴了一下”——先排查需要转介的线索
+## 6. 一、踝关节扭伤：足球中的预防
 
-教材强调内外踝、第五跖骨基底与舟骨等骨性部位触诊，以及必要X线；骨折可有痛肿、不能走路与畸形。体育现场不反复弹击、扭转或强拉关节来排除骨折；不能负重、明显骨性压痛、畸形、麻木发冷或开放伤，应及时医疗评估。
-来源：教材 p.164、169。图形为原创可编辑教学示意，非比例解剖图。
+JOSPT2021支持本体感觉/平衡训练和适当预防性支具降低复发风险；根据功能短板个体化安排。回场还需专业判断。
+该页在该项教材内容后立即讲解。具体任务为教练组织示例，不能声称单一动作已被证明可独立预防此病。
+内容依据：教材机制归纳 · 预防拓展。医学插图用于结构理解，不代表本页案例的诊断。
+拓展依据：https://doi.org/10.2519/jospt.2021.0302；FIFA基础训练组织：https://www.fifatrainingcentre.com/en/practice/grassroots/grassroots-and-youth-football-essentials/grassroots-coaching-essentials/optimising-warm-ups-u12-to-u15.php
 
-## 7. 为什么“不痛了”仍可能反复崴脚？
+## 7. 二、跟腱病变：损伤机制
 
-教材提到本体感觉、平衡和不稳问题，CPG强调既往扭伤和感觉运动控制。以下为概念归纳，不表示每个人都会出现同一因果链。疼痛减轻不代表肌力、平衡和专项能力全部恢复。https://doi.org/10.2519/jospt.2021.0302
-来源：教材 p.165 · JOSPT 2021。图形为原创可编辑教学示意，非比例解剖图。
+教材二、跟腱病变。病变不应被简单理解为只有炎症；足球负荷为教学联系。
+内容依据：教材 p.165—166。医学插图用于结构理解，不代表本页案例的诊断。
+素材信息：{"source": "https://commons.wikimedia.org/wiki/File:Achilles_tendonitis.svg", "creator": "Injurymap", "license": "CC BY 4.0", "license_url": "https://creativecommons.org/licenses/by/4.0", "changes": "SVG转PNG或缩放", "kind": "人体医学插图"}
 
-## 8. 预防重点一：把平衡练习做成可进阶的任务
+## 8. 二、跟腱病变：诊断与功能障碍
 
-CPG支持本体感觉和平衡训练减少复发。图示为已可安全负重者的任务类别，并非急性伤后处方。可从稳地面单脚站立到触点和接传球；进阶由专业人员按耐受决定，不把闭眼或不稳定垫作为人人必须的首选。https://doi.org/10.2519/jospt.2021.0302
-来源：预防拓展 · JOSPT 2021。图形为原创可编辑教学示意，非比例解剖图。
+教材列举的专项试验作为判断线索，需要病史、体征与必要影像相互印证；由专业人员检查。讲解顺序为先诊断线索，再主要功能障碍。
+内容依据：教材 p.165—166。医学插图用于结构理解，不代表本页案例的诊断。
+素材信息：{"source": "https://commons.wikimedia.org/wiki/File:Achilles_tendonitis.svg", "creator": "Injurymap", "license": "CC BY 4.0", "license_url": "https://creativecommons.org/licenses/by/4.0", "changes": "SVG转PNG或缩放", "kind": "人体医学插图"}
 
-## 9. 预防重点二：力量与专项控制一起练
+## 9. 二、跟腱病变：足球中的预防
 
-动作是功能训练类别示例。小腿提踵、踝周肌群抗阻和专项控制可按能力逐步安排。CPG支持结构化康复与感觉运动训练，但这里的三个任务不等同于一项独立验证的预防方案，不提供统一组数与次数。https://doi.org/10.2519/jospt.2021.0302
-来源：预防拓展 · 课堂任务示例。图形为原创可编辑教学示意，非比例解剖图。
+根据教材损伤机制与功能障碍作负荷管理归纳，不提供适用于所有人的固定提踵处方。
+该页在该项教材内容后立即讲解。具体任务为教练组织示例，不能声称单一动作已被证明可独立预防此病。
+内容依据：教材机制归纳 · 预防拓展。医学插图用于结构理解，不代表本页案例的诊断。
+拓展依据：https://www.fifatrainingcentre.com/en/practice/grassroots/grassroots-and-youth-football-essentials/grassroots-coaching-essentials/optimising-warm-ups-u12-to-u15.php；FIFA基础训练组织：https://www.fifatrainingcentre.com/en/practice/grassroots/grassroots-and-youth-football-essentials/grassroots-coaching-essentials/optimising-warm-ups-u12-to-u15.php
 
-## 10. 预防重点三：落地空间、护具与训练执行
+## 10. 三、跟腱断裂：损伤机制
 
-CPG推荐适当护具与平衡训练用于再伤预防；护具类型与使用需个体评估。场地与人员间距为体育教学组织建议，不声称某种鞋可普遍防止扭伤。预防训练及支具都不能保证零风险。https://doi.org/10.2519/jospt.2021.0302
-来源：预防拓展 · JOSPT 2021 / 教学组织。图形为原创可编辑教学示意，非比例解剖图。
+按教材三、跟腱断裂依次讲解。图为病理示意，不是球员影像。
+内容依据：教材 p.166。医学插图用于结构理解，不代表本页案例的诊断。
+素材信息：{"source": "https://commons.wikimedia.org/wiki/File:Achilles_Tendon_Rupture.jpg", "creator": "BruceBlaus", "license": "CC BY-SA 4.0", "license_url": "https://creativecommons.org/licenses/by-sa/4.0", "changes": "缩放；SVG转PNG（如适用）", "kind": "解剖/医学插图"}
 
-## 11. 何时回到球场？用 PAASS 组织复评
+## 11. 三、跟腱断裂：诊断与功能障碍
 
-PAASS是专家共识框架，不是已验证的统一达标分数。五领域：疼痛；踝关节功能；运动员感知；感觉运动控制；运动/功能表现。回场由医疗与康复团队结合专项需要综合判断，不能按固定休息天数。https://doi.org/10.1136/bjsports-2021-104087
-来源：预防拓展 · PAASS 共识 2021。图形为原创可编辑教学示意，非比例解剖图。
+教材列举的专项试验作为判断线索，需要病史、体征与必要影像相互印证；由专业人员检查。讲解顺序为先诊断线索，再主要功能障碍。
+内容依据：教材 p.166。医学插图用于结构理解，不代表本页案例的诊断。
+素材信息：{"source": "https://commons.wikimedia.org/wiki/File:Achilles_Tendon_Rupture.jpg", "creator": "BruceBlaus", "license": "CC BY-SA 4.0", "license_url": "https://creativecommons.org/licenses/by-sa/4.0", "changes": "缩放；SVG转PNG（如适用）", "kind": "解剖/医学插图"}
 
-## 12. 跟腱病：反复跳跃与蹬地后的负荷问题
+## 12. 三、跟腱断裂：足球中的预防
 
-教材的跟腱病变描述为主体，预防为机制导向教学归纳。跟腱痛不等于只有炎症，注意负荷反应。
-来源：教材 p.165—166。图形为原创可编辑教学示意，非比例解剖图。
+本页为教材机制与足球训练组织的归纳。不得声称热身或单一力量动作可确保防止所有断裂。
+该页在该项教材内容后立即讲解。具体任务为教练组织示例，不能声称单一动作已被证明可独立预防此病。
+内容依据：教材机制归纳 · 预防拓展。医学插图用于结构理解，不代表本页案例的诊断。
+拓展依据：https://www.fifatrainingcentre.com/en/practice/grassroots/grassroots-and-youth-football-essentials/grassroots-coaching-essentials/optimising-warm-ups-u12-to-u15.php；FIFA基础训练组织：https://www.fifatrainingcentre.com/en/practice/grassroots/grassroots-and-youth-football-essentials/grassroots-coaching-essentials/optimising-warm-ups-u12-to-u15.php
 
-## 13. 跟腱断裂：突然“被踢感”与蹬地无力
+## 13. 四、足底筋膜炎：损伤机制
 
-教材列Thompson征及超声/MRI辅助。专门检查由专业人员进行。课堂不让学生互相模拟急性断裂检查；不强行提踵、拉伸或继续比赛。
-来源：教材 p.166。图形为原创可编辑教学示意，非比例解剖图。
+按教材四、足底筋膜炎讲解。图示区域是教学参考，不能用痛点自我确诊。
+内容依据：教材 p.167。医学插图用于结构理解，不代表本页案例的诊断。
+素材信息：{"source": "https://commons.wikimedia.org/wiki/File:Pain_under_your_heel.svg", "creator": "InjuryMap", "license": "CC BY-SA 4.0", "license_url": "https://creativecommons.org/licenses/by-sa/4.0", "changes": "缩放；SVG转PNG（如适用）", "kind": "解剖/医学插图"}
 
-## 14. 足底筋膜相关疼痛：晨起第一步为什么痛？
+## 14. 四、足底筋膜炎：诊断与功能障碍
 
-教材足底筋膜炎内容。预防为机制导向归纳，不将所有足跟痛都确诊为足底筋膜炎，需与跟腱和其他疾病鉴别。
-来源：教材 p.167。图形为原创可编辑教学示意，非比例解剖图。
+教材列举的专项试验作为判断线索，需要病史、体征与必要影像相互印证；由专业人员检查。讲解顺序为先诊断线索，再主要功能障碍。
+内容依据：教材 p.167。医学插图用于结构理解，不代表本页案例的诊断。
+素材信息：{"source": "https://commons.wikimedia.org/wiki/File:Pain_under_your_heel.svg", "creator": "InjuryMap", "license": "CC BY-SA 4.0", "license_url": "https://creativecommons.org/licenses/by-sa/4.0", "changes": "缩放；SVG转PNG（如适用）", "kind": "解剖/医学插图"}
 
-## 15. 胫骨内侧应力综合征：训练加量后的“小腿痛”
+## 15. 四、足底筋膜炎：足球中的预防
 
-教材指出胫骨内侧应力综合征与训练量增加过快、地面、下肢受力等有关。较弥散的内侧胫骨疼痛可见于本病，但局灶剧痛、休息痛或持续加重时需排查骨应力损伤；不能靠一个触点在课堂确诊。
-来源：教材 p.168。图形为原创可编辑教学示意，非比例解剖图。
+教材过度使用机制与足球日常训练管理的教学归纳。
+该页在该项教材内容后立即讲解。具体任务为教练组织示例，不能声称单一动作已被证明可独立预防此病。
+内容依据：教材机制归纳 · 预防拓展。医学插图用于结构理解，不代表本页案例的诊断。
+拓展依据：https://www.fifatrainingcentre.com/en/practice/grassroots/grassroots-and-youth-football-essentials/grassroots-coaching-essentials/optimising-warm-ups-u12-to-u15.php；FIFA基础训练组织：https://www.fifatrainingcentre.com/en/practice/grassroots/grassroots-and-youth-football-essentials/grassroots-coaching-essentials/optimising-warm-ups-u12-to-u15.php
 
-## 16. 过度使用损伤：让负荷变化看得见
+## 16. 五、胫骨内侧应力综合征：损伤机制
 
-课表、训练日记和症状反馈为教学管理示例，不将通用固定百分比或某个负荷比值当作安全阈值。根据既往训练和个体反应安排，出现持续不适要评估。归纳自教材跟腱、足底筋膜、胫骨应力相关机制。
-来源：教材 p.165、167—168 · 教学归纳。图形为原创可编辑教学示意，非比例解剖图。
+按教材五、胫骨内侧应力综合征讲解；未把教材单个足纵弓数值作为通用预测阈值。
+内容依据：教材 p.168。医学插图用于结构理解，不代表本页案例的诊断。
+素材信息：{"source": "https://commons.wikimedia.org/wiki/File:Shin_splints.svg", "creator": "InjuryMap", "license": "CC BY-SA 4.0", "license_url": "https://creativecommons.org/licenses/by-sa/4.0", "changes": "缩放；SVG转PNG（如适用）", "kind": "解剖/医学插图"}
 
-## 17. 踝部骨折：不能把所有肿痛都当成扭伤
+## 17. 五、胫骨内侧应力综合征：诊断与功能障碍
 
-教材骨折常见机制包括高处坠落、直接暴力及间接暴力，表现有痛肿、瘀斑、不能走路与畸形，X线等辅助。现场不重复检查骨擦感或做纵向叩击来试图确诊。保护患肢，明显畸形、开放伤或感觉循环异常需急救。
-来源：教材 p.169。图形为原创可编辑教学示意，非比例解剖图。
+教材列举的专项试验作为判断线索，需要病史、体征与必要影像相互印证；由专业人员检查。讲解顺序为先诊断线索，再主要功能障碍。
+内容依据：教材 p.168。医学插图用于结构理解，不代表本页案例的诊断。
+素材信息：{"source": "https://commons.wikimedia.org/wiki/File:Shin_splints.svg", "creator": "InjuryMap", "license": "CC BY-SA 4.0", "license_url": "https://creativecommons.org/licenses/by-sa/4.0", "changes": "缩放；SVG转PNG（如适用）", "kind": "解剖/医学插图"}
 
-## 18. 足踝疼痛：按“位置 + 过程 + 功能”归纳
+## 18. 五、胫骨内侧应力综合征：足球中的预防
 
-此表为症状线索学习，不是自我诊断表。可将各列遮住让学生回答。多个问题可同时存在，持续症状需要专业评估。
-来源：教材 p.164—169。图形为原创可编辑教学示意，非比例解剖图。
+基于教材训练量与地面等机制的足球训练归纳，非统一负荷公式。
+该页在该项教材内容后立即讲解。具体任务为教练组织示例，不能声称单一动作已被证明可独立预防此病。
+内容依据：教材机制归纳 · 预防拓展。医学插图用于结构理解，不代表本页案例的诊断。
+拓展依据：https://www.fifatrainingcentre.com/en/practice/grassroots/grassroots-and-youth-football-essentials/grassroots-coaching-essentials/optimising-warm-ups-u12-to-u15.php；FIFA基础训练组织：https://www.fifatrainingcentre.com/en/practice/grassroots/grassroots-and-youth-football-essentials/grassroots-coaching-essentials/optimising-warm-ups-u12-to-u15.php
 
-## 19. 体育课堂的现场流程：停—护—记—转
+## 19. 六、踝关节骨折：损伤机制
 
-流程为教材症状和功能障碍内容的课堂应用。停止危险活动，保护伤肢，记录动作、症状和负重状况，与医疗团队交接。紧急表现及时呼叫急救。对急性疼痛不强行“走走看”、拉伸或让同学复位。
-来源：教材 p.164—169 · 教学组织。图形为原创可编辑教学示意，非比例解剖图。
+教材六、踝关节骨折。该图是一般解剖病理插图，具体分型和治疗不在体育课堂展开。
+内容依据：教材 p.169。医学插图用于结构理解，不代表本页案例的诊断。
+素材信息：{"source": "https://commons.wikimedia.org/wiki/File:Ankle_fractures_1_--_Smart-Servier.png", "creator": "Laboratoires Servier", "license": "CC BY-SA 3.0", "license_url": "https://creativecommons.org/licenses/by-sa/3.0", "changes": "缩放；SVG转PNG（如适用）", "kind": "解剖/医学插图"}
 
-## 20. 一堂体育课里，预防练习如何组织？
+## 20. 六、踝关节骨折：诊断与功能障碍
 
-只示范组织方式，不宣称下列四环节已构成验证过的独立预防计划。可结合项目、年龄和能力选择指南支持的平衡与功能训练，监督执行。当前疼痛、未获安全参与许可者不直接进入跑跳站。https://doi.org/10.2519/jospt.2021.0302
-来源：预防拓展 · 教学组织示例。图形为原创可编辑教学示意，非比例解剖图。
+教材列举的专项试验作为判断线索，需要病史、体征与必要影像相互印证；由专业人员检查。讲解顺序为先诊断线索，再主要功能障碍。
+内容依据：教材 p.169。医学插图用于结构理解，不代表本页案例的诊断。
+素材信息：{"source": "https://commons.wikimedia.org/wiki/File:Ankle_fractures_1_--_Smart-Servier.png", "creator": "Laboratoires Servier", "license": "CC BY-SA 3.0", "license_url": "https://creativecommons.org/licenses/by-sa/3.0", "changes": "缩放；SVG转PNG（如适用）", "kind": "解剖/医学插图"}
 
-## 21. 课堂讨论：不痛了，能否马上参加比赛？
+## 21. 六、踝关节骨折：足球中的预防
 
-让学生先给出判断依据，再看下一页参考思路。病例不提供足够临床资料作诊断。重点是发现无痛步行不能代表专项功能恢复。
-来源：教学病例 · 虚构情境。图形为原创可编辑教学示意，非比例解剖图。
+教材暴力机制与FIFA安全组织的教学归纳。发生急性异常时按伤情联系急救或医疗团队。
+该页在该项教材内容后立即讲解。具体任务为教练组织示例，不能声称单一动作已被证明可独立预防此病。
+内容依据：教材机制归纳 · 预防拓展。医学插图用于结构理解，不代表本页案例的诊断。
+拓展依据：https://www.fifatrainingcentre.com/en/practice/grassroots/grassroots-and-youth-football-essentials/grassroots-coaching-essentials/optimising-warm-ups-u12-to-u15.php；FIFA基础训练组织：https://www.fifatrainingcentre.com/en/practice/grassroots/grassroots-and-youth-football-essentials/grassroots-coaching-essentials/optimising-warm-ups-u12-to-u15.php
 
-## 22. 病例解析：把“无痛”与“准备好”区分开
+## 22. 按教材回扣：把“损伤—足球情境—预防”连起来
 
-参考回答不是临床处方：需要评估疼痛反应、踝活动和力量、动态平衡、信心、专项任务及完整训练能力。体育教师按专业许可调整参与，回场决定由医疗/康复团队协同，持续平衡及适当外部支持可用于再伤预防。https://doi.org/10.1136/bjsports-2021-104087；https://doi.org/10.2519/jospt.2021.0302
-来源：预防拓展 · PAASS / JOSPT 2021。图形为原创可编辑教学示意，非比例解剖图。
+顺序与正文一致。让学生任选一项，说明受损结构、足球中的典型任务以及预防重点。不将一项动作观察当作诊断或伤病预测。
+内容依据：教材 p.164—169 · 教学归纳。医学插图用于结构理解，不代表本页案例的诊断。
 
-## 23. 本课带走的三个判断
+## 23. 教材与足球专项拓展依据
 
-请学生各用一句话解释：外侧踝扭伤的机制；反复崴脚为什么需要功能恢复；什么时候应停止参与并转介。最后把预防与保持运动参与联系起来。
-来源：教材内容与预防拓展归纳。图形为原创可编辑教学示意，非比例解剖图。
+教材内容与预防拓展分开标注。保持原文伤病顺序，不把课堂示例冒充完整的循证训练方案。
+内容依据：教材与预防来源。医学插图用于结构理解，不代表本页案例的诊断。
+FIFA来源：https://www.fifatrainingcentre.com/en/practice/grassroots/grassroots-and-youth-football-essentials/grassroots-coaching-essentials/optimising-warm-ups-u12-to-u15.php
 
-## 24. 教材与 GitHub 参考
+## 24. 解剖图、真实动图与 GitHub 来源
 
-教材医学主体来自所上传6页。GitHub课程实际查阅其第1周25页讲义；只参考情境、分步解释和课堂提问，不引用模型结论作医学依据。GitHub图鉴只参考观察与判断分开、联系回场的组织方式，未复制受保护的第三方视频和医学长文。
-来源：资料说明。图形为原创可编辑教学示意，非比例解剖图。
-https://github.com/Sithranjan-Suresh/injury-risk-ml-curriculum
-https://github.com/keanu77/professional-sports-injury-atlas
-https://github.com/freshehrteam/Ankle-sprain
-
-## 25. 预防与回场：补充证据来源
-
-教材未详细覆盖的预防及回场部分采用以下来源。PAASS属于共识框架，不是统一回场测试或保证。课堂任务示例为教学设计，不代替个体化康复方案。
-来源：预防拓展 · 参考文献。图形为原创可编辑教学示意，非比例解剖图。
+所有图片作者、许可、原始链接、加工方式记录于source/assets/MEDIA_SOURCES.json。CC BY-SA素材的改编图继续遵循原许可；ACL论文补充录像为CC BY-NC 4.0，供非商业教学使用，第三方原始标识保留。其他素材按各自许可使用。
+内容依据：素材来源与播放说明。医学插图用于结构理解，不代表本页案例的诊断。
+实际查阅GitHub：https://github.com/convderover/broadcast-kick-biomechanics；其正常踢球视频不是受伤录像，也不能用其模型结果进行个人损伤预测。另查阅MonaElkhouly/Biomechanics-Final-Project-ACL-Injuries-for-female-football-player-Analysi-，未将未明确授权的素材重新分发。

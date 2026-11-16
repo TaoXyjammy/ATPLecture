@@ -1,108 +1,129 @@
-## 1. 膝关节运动损伤与预防
+## 1. 膝关节损伤的功能障碍
 
-体育学科课堂，以运动参与者、体育教师和教练员视角讨论。主体依据教材p.136—139，预防拓展依据JOSPT 2023与NATA 2018。全课可按约40—45分钟组织，具体按学生基础调整。
+按教材损伤种类顺序讲解。每种损伤内部依次讲损伤机制、诊断标准/线索、主要功能障碍；随后补充足球专项预防，再进入下一种损伤。预防是教学拓展，不伪装成原教材内容。
+内容依据：教材 p.136—139。医学插图用于结构理解，不代表本页案例的诊断。
+封面配图：{"source": "https://commons.wikimedia.org/wiki/File:Blausen_0597_KneeAnatomy_Side.png", "creator": "BruceBlaus. When using this image in external sources it can be cited as:\n\nBlausen.com staff (2014). \"Medical gallery of Blausen Medical 2014\". WikiJournal of Medicine 1 (2). DOI:10.15347/wjm/2014.010. ISSN 2002-4436.", "license": "CC BY 3.0", "license_url": "https://creativecommons.org/licenses/by/3.0", "changes": "缩放；SVG转PNG（如适用）", "kind": "解剖/医学插图"}
+封面正常踢球GIF：{"source": "https://github.com/convderover/broadcast-kick-biomechanics", "creator": "Roberto Martín Gutiérrez, 2026", "license": "CC BY 4.0（仓库 docs/ 与 resultados/ 中的图文视频）", "license_url": "https://creativecommons.org/licenses/by/4.0/", "changes": "resultados/videos/07_golpeo_real_autor.mp4 转GIF，缩放、降帧、去音轨", "kind": "作者本人正常踢球慢动作；非受伤录像、非损伤预测证据"}
 
-## 2. 同样是“膝痛”，评定从哪里开始？
+## 2. 教材讲解顺序：逐项学习，逐项配套预防
 
-提出两个情境，请学生先描述损伤动作而不是立即给诊断。A提示需要关注ACL及合并损伤，B提示髌股关节相关问题。情境均为教学编写，不能据此直接确诊。
-教材依据：用户提供《运动康复评定学-膝关节损伤》，印刷页码 p.136—139。示意图为重绘教学简图，不表示真实比例。
+本页只展示顺序。各损伤的预防跟随该项教材内容之后，不把所有预防集中放在课程末尾。
+内容依据：教材 p.136—139。医学插图用于结构理解，不代表本页案例的诊断。
 
-## 3. 结构不同，承担的稳定任务也不同
+## 3. 一、前交叉韧带损伤：损伤机制
 
-左图仅用于建立结构位置感。ACL重点限制胫骨过度前移并参与旋转稳定；半月板分散负荷、吸收冲击；副韧带提供内外侧稳定。髌骨与滑车配合，帮助伸膝。ACL与PCL在图中交叉不代表真实投影。
-教材依据：用户提供《运动康复评定学-膝关节损伤》，印刷页码 p.136—139。示意图为重绘教学简图，不表示真实比例。
+按教材一、前交叉韧带损伤之（一）损伤机制讲解。足球研究提示逼抢、踢球后恢复平衡、争顶落地等情境，录像用于机制讨论，不能代替诊断。https://doi.org/10.1136/bjsports-2014-094573
+内容依据：教材 p.136。医学插图用于结构理解，不代表本页案例的诊断。
+素材信息：{"source": "https://commons.wikimedia.org/wiki/File:Knee_Sprain.jpg", "creator": "http://www.scientificanimations.com/", "license": "CC BY-SA 4.0", "license_url": "https://creativecommons.org/licenses/by-sa/4.0", "changes": "裁切、缩放", "kind": "解剖/医学插图"}
 
-## 4. 体育教师如何把“损伤知识”转化为预防？
+## 4. 一、前交叉韧带损伤：比赛录像观察
 
-教学归纳。体育教师重点是识别危险情境、科学安排参与和及时转介，不是现场给出韧带分级。与后续预防练习建立联系。
+嵌入论文补充视频1的GIF，真实足球比赛中的研究病例。先观察接触、足部落地与方向变化，再讨论机制。论文研究中确认的病例不等于可以凭课堂影片自行确诊。此短片约1.9秒，GIF循环播放；PDF只显示静态帧。原文及视频：https://doi.org/10.1136/bjsports-2014-094573
+内容依据：教材 p.136 · Waldén et al., 2015。医学插图用于结构理解，不代表本页案例的诊断。
+素材信息：{"source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4680158/", "creator": "Waldén et al., BJSM 2015, Web video 1", "license": "CC BY-NC 4.0（论文及补充材料；非商业教学）", "license_url": "https://creativecommons.org/licenses/by-nc/4.0/", "changes": "论文补充视频转GIF；缩放、降帧，无音轨；保留原画面标识", "kind": "真实比赛录像（ACL研究病例）"}
 
-## 5. 前交叉韧带：落地与变向中的稳定失守
+## 5. 一、前交叉韧带损伤：诊断与功能障碍
 
-教材指出ACL损伤多见于快速变向和起跳落地项目，常为非接触性损伤。足部固定时的扭转、外翻及过伸可能参与损伤。强调不是看到一个动作就断定ACL撕裂，也要关注半月板、骨挫伤等合并问题。
-教材依据：用户提供《运动康复评定学-膝关节损伤》，印刷页码 p.136。示意图为重绘教学简图，不表示真实比例。
+教材列举的专项试验作为判断线索，需要病史、体征与必要影像相互印证；由专业人员检查。讲解顺序为先诊断线索，再主要功能障碍。
+内容依据：教材 p.136。医学插图用于结构理解，不代表本页案例的诊断。
+素材信息：{"source": "https://commons.wikimedia.org/wiki/File:Knee_Sprain.jpg", "creator": "http://www.scientificanimations.com/", "license": "CC BY-SA 4.0", "license_url": "https://creativecommons.org/licenses/by-sa/4.0", "changes": "裁切、缩放", "kind": "解剖/医学插图"}
 
-## 6. 半月板：负重与旋转为何容易造成损伤？
+## 6. 一、前交叉韧带损伤：足球中的预防
 
-图为半月板俯视概念图，内侧C形、外侧近O形。教材强调承重、旋转、过度屈曲，以及半月板未能随骨面协调移动时受挤压。周缘血供相对丰富，中央血供少；恢复还与撕裂类型和位置等有关。避免直接重复教材关于内外侧“更严重”的泛化结论。
-教材依据：用户提供《运动康复评定学-膝关节损伤》，印刷页码 p.137。示意图为重绘教学简图，不表示真实比例。
+JOSPT2023支持运动预防计划；足球任务是其原理的教学转化，不是一套经本课独立验证的新方案。
+该页在该项教材内容后立即讲解。具体任务为教练组织示例，不能声称单一动作已被证明可独立预防此病。
+内容依据：教材机制归纳 · 预防拓展。医学插图用于结构理解，不代表本页案例的诊断。
+拓展依据：https://doi.org/10.2519/jospt.2023.0301；FIFA基础训练组织：https://www.fifatrainingcentre.com/en/practice/grassroots/grassroots-and-youth-football-essentials/grassroots-coaching-essentials/optimising-warm-ups-u12-to-u15.php
 
-## 7. 副韧带：外翻与内翻指向不同的受力侧
+## 7. 二、半月板损伤：损伤机制
 
-教材描述内侧副韧带多与外翻应力有关，外侧副韧带多与内翻应力有关，后者还可能累及外侧相关结构。图为概念性受力示意，文字说明外翻牵拉内侧、内翻牵拉外侧，避免将外力来源与受损侧混淆。
-教材依据：用户提供《运动康复评定学-膝关节损伤》，印刷页码 p.138。示意图为重绘教学简图，不表示真实比例。
+按教材半月板损伤之损伤机制讲解。图示结构为参考，不表示某个真实球员的撕裂形态。
+内容依据：教材 p.137。医学插图用于结构理解，不代表本页案例的诊断。
+素材信息：{"source": "https://commons.wikimedia.org/wiki/File:Medial_Meniscus_Injury.png", "creator": "BruceBlaus", "license": "CC BY-SA 4.0", "license_url": "https://creativecommons.org/licenses/by-sa/4.0", "changes": "缩放；SVG转PNG（如适用）", "kind": "解剖/医学插图"}
 
-## 8. 髌骨脱位：静态限制与动态控制共同失衡
+## 8. 二、半月板损伤：诊断与功能障碍
 
-教材介绍髌骨向外侧脱位及髌股不稳。股内侧斜肌是动态稳定结构，MPFL属于内侧静态限制结构，两者不能混为同一种组织。高位髌骨、滑车发育因素、下肢排列等可参与。图示向外侧偏移为概念示意。
-教材依据：用户提供《运动康复评定学-膝关节损伤》，印刷页码 p.138—139。示意图为重绘教学简图，不表示真实比例。
+教材列举的专项试验作为判断线索，需要病史、体征与必要影像相互印证；由专业人员检查。讲解顺序为先诊断线索，再主要功能障碍。
+内容依据：教材 p.137。医学插图用于结构理解，不代表本页案例的诊断。
+素材信息：{"source": "https://commons.wikimedia.org/wiki/File:Medial_Meniscus_Injury.png", "creator": "BruceBlaus", "license": "CC BY-SA 4.0", "license_url": "https://creativecommons.org/licenses/by-sa/4.0", "changes": "缩放；SVG转PNG（如适用）", "kind": "解剖/医学插图"}
 
-## 9. 髌骨软化：膝前痛需要结合负荷情境理解
+## 9. 二、半月板损伤：足球中的预防
 
-沿用教材“髌骨软化”名称，但膝前痛是症状，不能仅凭疼痛就确认软骨改变。教材提及过度使用、直接外伤等因素，Clarke及磨髌试验和影像辅助诊断。此类试验可诱发疼痛且特异性有限，课堂以教材列举为主，不推荐反复诱痛。
-教材依据：用户提供《运动康复评定学-膝关节损伤》，印刷页码 p.139。示意图为重绘教学简图，不表示真实比例。
+教材机制导向归纳，配合足球教练组织原则。既往损伤者由医疗与康复专业人员协同决定参与。
+该页在该项教材内容后立即讲解。具体任务为教练组织示例，不能声称单一动作已被证明可独立预防此病。
+内容依据：教材机制归纳 · 预防拓展。医学插图用于结构理解，不代表本页案例的诊断。
+拓展依据：https://www.fifatrainingcentre.com/en/practice/grassroots/grassroots-and-youth-football-essentials/grassroots-coaching-essentials/optimising-warm-ups-u12-to-u15.php；FIFA基础训练组织：https://www.fifatrainingcentre.com/en/practice/grassroots/grassroots-and-youth-football-essentials/grassroots-coaching-essentials/optimising-warm-ups-u12-to-u15.php
 
-## 10. 把五类问题放进同一张对照表
+## 10. 三、副韧带损伤：损伤机制
 
-此表是用于复习的线索对照，不是诊断决策规则。多种损伤可能并存，症状存在重叠。可请学生先遮住右列，尝试说出相应的主要功能影响。
-教材依据：用户提供《运动康复评定学-膝关节损伤》，印刷页码 p.136—139。示意图为重绘教学简图，不表示真实比例。
+教材副韧带损伤。足球情境用于说明接触受力，不把某一种铲抢外观直接等同于某条韧带撕裂。
+内容依据：教材 p.138。医学插图用于结构理解，不代表本页案例的诊断。
+素材信息：{"source": "https://commons.wikimedia.org/wiki/File:Knee_Sprain.jpg", "creator": "http://www.scientificanimations.com/", "license": "CC BY-SA 4.0", "license_url": "https://creativecommons.org/licenses/by-sa/4.0", "changes": "裁切、缩放", "kind": "解剖/医学插图"}
 
-## 11. 从损伤机制中寻找可改变的环节
+## 11. 三、副韧带损伤：诊断与功能障碍
 
-让学生把机制翻译成可操作的训练内容。既往损伤与个体结构影响风险，但一次动作筛查不能准确预测谁会受伤。预防是降低概率，不能保证不受伤。多因素观点依据NATA 2018及JOSPT 2023：https://doi.org/10.4085/1062-6050-99-16；https://doi.org/10.2519/jospt.2023.0301
-来源：预防拓展 · 教学归纳。图形为原创可编辑教学示意，非比例解剖图。
+教材列举的专项试验作为判断线索，需要病史、体征与必要影像相互印证；由专业人员检查。讲解顺序为先诊断线索，再主要功能障碍。
+内容依据：教材 p.138。医学插图用于结构理解，不代表本页案例的诊断。
+素材信息：{"source": "https://commons.wikimedia.org/wiki/File:Knee_Sprain.jpg", "creator": "http://www.scientificanimations.com/", "license": "CC BY-SA 4.0", "license_url": "https://creativecommons.org/licenses/by-sa/4.0", "changes": "裁切、缩放", "kind": "解剖/医学插图"}
 
-## 12. 落地教学：先看缓冲，再看对线与控制
+## 12. 三、副韧带损伤：足球中的预防
 
-原创示意，仅展示可见动作。观察屈髋屈膝、落地稳定与膝内扣；这些表现不能单独预测ACL损伤。教学反馈可用“轻稳落地、髋膝共同缓冲、保持方向控制”。先低难度再增加速度、单脚与专项干扰。参考：https://doi.org/10.4085/1062-6050-99-16
-来源：预防拓展 · NATA 2018。图形为原创可编辑教学示意，非比例解剖图。
+足球教学组织与教材机制归纳。对抗升级按年龄、技术和身体条件进行。
+该页在该项教材内容后立即讲解。具体任务为教练组织示例，不能声称单一动作已被证明可独立预防此病。
+内容依据：教材机制归纳 · 预防拓展。医学插图用于结构理解，不代表本页案例的诊断。
+拓展依据：https://www.fifatrainingcentre.com/en/practice/grassroots/grassroots-and-youth-football-essentials/grassroots-coaching-essentials/optimising-warm-ups-u12-to-u15.php；FIFA基础训练组织：https://www.fifatrainingcentre.com/en/practice/grassroots/grassroots-and-youth-football-essentials/grassroots-coaching-essentials/optimising-warm-ups-u12-to-u15.php
 
-## 13. 预防训练：力量、跳跃与近端控制相结合
+## 13. 四、髌骨脱位（髌股关节不稳）：损伤机制
 
-示例供已能安全参加运动者课堂学习。以深蹲/弓步、桥式/髋控制、低幅跳跃落地为动作类别示例，不是适合所有人的固定处方。训练应由专业人员按个体调整。核心概念：多组分，不能只做静态拉伸或只练平衡。参考：https://doi.org/10.2519/jospt.2023.0301
-来源：预防拓展 · JOSPT 2023。图形为原创可编辑教学示意，非比例解剖图。
+按教材髌骨脱位损伤机制讲解，预防页是下一页之后单独展开。图片为一般医学插图，不是个人诊断。
+内容依据：教材 p.138—139。医学插图用于结构理解，不代表本页案例的诊断。
+素材信息：{"source": "https://commons.wikimedia.org/wiki/File:Patellar_dislocation.svg", "creator": "InjuryMap", "license": "CC BY-SA 4.0", "license_url": "https://creativecommons.org/licenses/by-sa/4.0", "changes": "缩放；SVG转PNG（如适用）", "kind": "解剖/医学插图"}
 
-## 14. 把预防融入教学：练习—观察—反馈—复练
+## 14. 四、髌骨脱位（髌股关节不稳）：诊断与功能障碍
 
-这是教师组织练习的设计示例，不是经验证的完整预防方案，也不替代指南所述训练剂量。按已选项目方案安排，持续实施并监督完成质量。证据要点：在季前开始并在赛季持续，重视依从性。参考：https://doi.org/10.2519/jospt.2023.0301
-来源：预防拓展 · 教学组织示例。图形为原创可编辑教学示意，非比例解剖图。
+教材列举的专项试验作为判断线索，需要病史、体征与必要影像相互印证；由专业人员检查。讲解顺序为先诊断线索，再主要功能障碍。
+内容依据：教材 p.138—139。医学插图用于结构理解，不代表本页案例的诊断。
+素材信息：{"source": "https://commons.wikimedia.org/wiki/File:Patellar_dislocation.svg", "creator": "InjuryMap", "license": "CC BY-SA 4.0", "license_url": "https://creativecommons.org/licenses/by-sa/4.0", "changes": "缩放；SVG转PNG（如适用）", "kind": "解剖/医学插图"}
 
-## 15. 不同损伤，预防重点如何对应？
+## 15. 四、髌骨脱位（髌股关节不稳）：足球中的预防
 
-将教材机制转化为课堂训练与环境管理建议，不主张某个动作已被证实能单独预防某一病种。对髌股疼痛者，应个体化调整诱发负荷并转介评估；不要把髌骨软化和所有膝前痛视为同义词。
-来源：教材 p.136—139 · 教学归纳。图形为原创可编辑教学示意，非比例解剖图。
+教材机制及FIFA组织原则的教学转化，不声称孤立股内侧肌练习能预防全部髌骨脱位。
+该页在该项教材内容后立即讲解。具体任务为教练组织示例，不能声称单一动作已被证明可独立预防此病。
+内容依据：教材机制归纳 · 预防拓展。医学插图用于结构理解，不代表本页案例的诊断。
+拓展依据：https://www.fifatrainingcentre.com/en/practice/grassroots/grassroots-and-youth-football-essentials/grassroots-coaching-essentials/optimising-warm-ups-u12-to-u15.php；FIFA基础训练组织：https://www.fifatrainingcentre.com/en/practice/grassroots/grassroots-and-youth-football-essentials/grassroots-coaching-essentials/optimising-warm-ups-u12-to-u15.php
 
-## 16. 运动现场：哪些表现需要停止参与？
+## 16. 五、髌骨软化：损伤机制
 
-依据教材急性功能障碍内容的情境归纳。明显畸形、不能负重、严重痛肿、疑似脱位或交锁均需及时医疗评估。现场不强行复位，不让同学反复做诱痛检查。若有足部发冷、麻木、颜色异常或开放伤，应紧急处理。
-来源：教材 p.136—139 · 现场识别。图形为原创可编辑教学示意，非比例解剖图。
+教材髌骨软化，侧面结构图用于定位髌骨与关节关系。未把正常结构图误标为病灶图。
+内容依据：教材 p.139。医学插图用于结构理解，不代表本页案例的诊断。
+素材信息：{"source": "https://commons.wikimedia.org/wiki/File:Blausen_0597_KneeAnatomy_Side.png", "creator": "BruceBlaus. When using this image in external sources it can be cited as:\n\nBlausen.com staff (2014). \"Medical gallery of Blausen Medical 2014\". WikiJournal of Medicine 1 (2). DOI:10.15347/wjm/2014.010. ISSN 2002-4436.", "license": "CC BY 3.0", "license_url": "https://creativecommons.org/licenses/by/3.0", "changes": "缩放；SVG转PNG（如适用）", "kind": "解剖/医学插图"}
 
-## 17. 病例练习：急停后膝关节肿胀，如何评定？
+## 17. 五、髌骨软化：诊断与功能障碍
 
-教学虚构病例。给学生1分钟讨论：提出至少两个待排查问题，说明需要追问和检查的内容。不要要求在信息不足时给出唯一诊断。病例仅用于临床推理训练，不是治疗处方。
-教材依据：用户提供《运动康复评定学-膝关节损伤》，印刷页码 p.136—139。示意图为重绘教学简图，不表示真实比例。
+教材列举的专项试验作为判断线索，需要病史、体征与必要影像相互印证；由专业人员检查。讲解顺序为先诊断线索，再主要功能障碍。
+内容依据：教材 p.139。医学插图用于结构理解，不代表本页案例的诊断。
+素材信息：{"source": "https://commons.wikimedia.org/wiki/File:Blausen_0597_KneeAnatomy_Side.png", "creator": "BruceBlaus. When using this image in external sources it can be cited as:\n\nBlausen.com staff (2014). \"Medical gallery of Blausen Medical 2014\". WikiJournal of Medicine 1 (2). DOI:10.15347/wjm/2014.010. ISSN 2002-4436.", "license": "CC BY 3.0", "license_url": "https://creativecommons.org/licenses/by/3.0", "changes": "缩放；SVG转PNG（如适用）", "kind": "解剖/医学插图"}
 
-## 18. 病例解析：机制、结构与功能需要相互印证
+## 18. 五、髌骨软化：足球中的预防
 
-参考回答：优先怀疑ACL损伤，但不能确诊；同时关注半月板、其他韧带和骨性损伤。询问非接触还是接触、肿胀时程、能否负重、交锁等。基本检查后在适当条件下做ACL针对性检查，必要影像。急性剧痛肿胀和不能负重时先医疗评估，不强行试验。
-教材依据：用户提供《运动康复评定学-膝关节损伤》，印刷页码 p.136—138。示意图为重绘教学简图，不表示真实比例。
-追问：在恢复运动参与后，可从规范变向、落地训练与持续组合预防训练减少再伤风险；回场由医疗团队综合判断。
+基于教材过度使用机制的教学归纳；足球组织参考FIFA渐进原则。
+该页在该项教材内容后立即讲解。具体任务为教练组织示例，不能声称单一动作已被证明可独立预防此病。
+内容依据：教材机制归纳 · 预防拓展。医学插图用于结构理解，不代表本页案例的诊断。
+拓展依据：https://www.fifatrainingcentre.com/en/practice/grassroots/grassroots-and-youth-football-essentials/grassroots-coaching-essentials/optimising-warm-ups-u12-to-u15.php；FIFA基础训练组织：https://www.fifatrainingcentre.com/en/practice/grassroots/grassroots-and-youth-football-essentials/grassroots-coaching-essentials/optimising-warm-ups-u12-to-u15.php
 
-## 19. 从“结构诊断”走向“功能问题清单”
+## 19. 按教材回扣：把“损伤—足球情境—预防”连起来
 
-此页为教材功能障碍内容的教学归纳，不是新增康复治疗方案。把观察到的问题转化为可重复记录的项目：疼痛肿胀、屈伸范围、肌力和稳定、活动表现。复评尽量保持相同条件与方法，按阶段选择合适活动，不在急性期强行做高负荷测试。
-教材依据：用户提供《运动康复评定学-膝关节损伤》，印刷页码 p.136—139。示意图为重绘教学简图，不表示真实比例。
+顺序与正文一致。让学生任选一项，说明受损结构、足球中的典型任务以及预防重点。不将一项动作观察当作诊断或伤病预测。
+内容依据：教材 p.136—139 · 教学归纳。医学插图用于结构理解，不代表本页案例的诊断。
 
-## 20. 课堂回扣：解释机制，识别风险，落实预防
+## 20. 教材与足球专项拓展依据
 
-回扣体育学科的应用：不仅会背损伤名称，还要能设计组织方式、识别转介情况、落实持续预防练习。
+教材内容与预防拓展分开标注。保持原文伤病顺序，不把课堂示例冒充完整的循证训练方案。
+内容依据：教材与预防来源。医学插图用于结构理解，不代表本页案例的诊断。
+FIFA来源：https://www.fifatrainingcentre.com/en/practice/grassroots/grassroots-and-youth-football-essentials/grassroots-coaching-essentials/optimising-warm-ups-u12-to-u15.php
 
-## 21. 教材与 GitHub 教学参考
+## 21. 解剖图、真实动图与 GitHub 来源
 
-GitHub实际查阅：https://github.com/Sithranjan-Suresh/injury-risk-ml-curriculum/blob/main/Week_1/Mini_Missions_Week1_presentation.pdf
-https://github.com/keanu77/professional-sports-injury-atlas
-课程是机器学习入门示例，仅借鉴“受伤情境→问题→分步解释→提问”的教学方式，不采用其数据或预测结果作为医学证据。图鉴医学内容标示在审阅中；本课预防结论单独依据指南。
-
-## 22. 预防拓展的证据依据
-
-新增预防部分不是所上传教材的原文。以下指南与立场声明提供基础原则；课堂中的练习编排与情境为教学设计。
-来源：预防拓展 · 参考文献。图形为原创可编辑教学示意，非比例解剖图。
+所有图片作者、许可、原始链接、加工方式记录于source/assets/MEDIA_SOURCES.json。CC BY-SA素材的改编图继续遵循原许可；ACL论文补充录像为CC BY-NC 4.0，供非商业教学使用，第三方原始标识保留。其他素材按各自许可使用。
+内容依据：素材来源与播放说明。医学插图用于结构理解，不代表本页案例的诊断。
+实际查阅GitHub：https://github.com/convderover/broadcast-kick-biomechanics；其正常踢球视频不是受伤录像，也不能用其模型结果进行个人损伤预测。另查阅MonaElkhouly/Biomechanics-Final-Project-ACL-Injuries-for-female-football-player-Analysi-，未将未明确授权的素材重新分发。

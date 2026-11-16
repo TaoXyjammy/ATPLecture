@@ -1,0 +1,114 @@
+{
+  "knee_ligaments.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Knee_Sprain.jpg",
+    "creator": "http://www.scientificanimations.com/",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "裁切、缩放",
+    "kind": "解剖/医学插图"
+  },
+  "meniscus.png": {
+    "source": "https://commons.wikimedia.org/wiki/File:Medial_Meniscus_Injury.png",
+    "creator": "BruceBlaus",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "缩放；SVG转PNG（如适用）",
+    "kind": "解剖/医学插图"
+  },
+  "patella.png": {
+    "source": "https://commons.wikimedia.org/wiki/File:Patellar_dislocation.svg",
+    "creator": "InjuryMap",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "缩放；SVG转PNG（如适用）",
+    "kind": "解剖/医学插图"
+  },
+  "knee_side.png": {
+    "source": "https://commons.wikimedia.org/wiki/File:Blausen_0597_KneeAnatomy_Side.png",
+    "creator": "BruceBlaus. When using this image in external sources it can be cited as:\n\nBlausen.com staff (2014). \"Medical gallery of Blausen Medical 2014\". WikiJournal of Medicine 1 (2). DOI:10.15347/wjm/2014.010. ISSN 2002-4436.",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "changes": "缩放；SVG转PNG（如适用）",
+    "kind": "解剖/医学插图"
+  },
+  "ankle.png": {
+    "source": "https://commons.wikimedia.org/wiki/File:Ankle_en.svg",
+    "creator": "An svg version of image:Ankle.PNG by me (Jak).",
+    "license": "Public domain",
+    "license_url": "",
+    "changes": "缩放；SVG转PNG（如适用）",
+    "kind": "解剖/医学插图"
+  },
+  "achilles.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Achilles_Tendon_Rupture.jpg",
+    "creator": "BruceBlaus",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "缩放；SVG转PNG（如适用）",
+    "kind": "解剖/医学插图"
+  },
+  "plantar.png": {
+    "source": "https://commons.wikimedia.org/wiki/File:Pain_under_your_heel.svg",
+    "creator": "InjuryMap",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "缩放；SVG转PNG（如适用）",
+    "kind": "解剖/医学插图"
+  },
+  "shin.png": {
+    "source": "https://commons.wikimedia.org/wiki/File:Shin_splints.svg",
+    "creator": "InjuryMap",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "缩放；SVG转PNG（如适用）",
+    "kind": "解剖/医学插图"
+  },
+  "fracture.png": {
+    "source": "https://commons.wikimedia.org/wiki/File:Ankle_fractures_1_--_Smart-Servier.png",
+    "creator": "Laboratoires Servier",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "changes": "缩放；SVG转PNG（如适用）",
+    "kind": "解剖/医学插图"
+  },
+  "acl_match.gif": {
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4680158/",
+    "creator": "Waldén et al., BJSM 2015, Web video 1",
+    "license": "CC BY-NC 4.0（论文及补充材料；非商业教学）",
+    "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "changes": "论文补充视频转GIF；缩放、降帧，无音轨；保留原画面标识",
+    "kind": "真实比赛录像（ACL研究病例）"
+  },
+  "ankle_frames.gif": {
+    "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12582226/",
+    "creator": "Buckthorpe et al., KSSTA 2025, Figure 2(c1–c4)",
+    "license": "CC BY 4.0（原文）",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "提取图2(c1–c4)，按原顺序重排为GIF并标注；不是连续录像",
+    "kind": "真实比赛研究图帧序列（踝扭伤）"
+  },
+  "football_kick.gif": {
+    "source": "https://github.com/convderover/broadcast-kick-biomechanics",
+    "creator": "Roberto Martín Gutiérrez, 2026",
+    "license": "CC BY 4.0（仓库 docs/ 与 resultados/ 中的图文视频）",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "changes": "resultados/videos/07_golpeo_real_autor.mp4 转GIF，缩放、降帧、去音轨",
+    "kind": "作者本人正常踢球慢动作；非受伤录像、非损伤预测证据"
+  },
+  "foot_anatomy.png": {
+    "source": "https://commons.wikimedia.org/wiki/File:Blausen_0411_FootAnatomy_zh.png",
+    "creator": "File:Blausen 0411 FootAnatomy.png: BruceBlaus. When using this image in external sources it can be cited as:\nBlausen.com staff (2014). \"Medical gallery of Blausen Medical 2014\". WikiJournal of Medicine 1 (2). DOI:10.15347/wjm/2014.010. ISSN 2002-4436.\nderivative work: GnolizX",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "changes": "SVG转PNG或缩放",
+    "kind": "人体医学插图"
+  },
+  "tendinopathy.png": {
+    "source": "https://commons.wikimedia.org/wiki/File:Achilles_tendonitis.svg",
+    "creator": "Injurymap",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "changes": "SVG转PNG或缩放",
+    "kind": "人体医学插图"
+  }
+}

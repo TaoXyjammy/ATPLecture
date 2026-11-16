@@ -13,7 +13,8 @@
     "license": "CC BY-SA 4.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "changes": "缩放；SVG转PNG（如适用）",
-    "kind": "解剖/医学插图"
+    "kind": "解剖/医学插图",
+    "ppt_localization": "图内英文以PPT原生文字层覆盖翻译；解剖像素和GIF各帧保持原始内容。对应关系见source/Chinese_labels.json。"
   },
   "patella.png": {
     "source": "https://commons.wikimedia.org/wiki/File:Patellar_dislocation.svg",
@@ -21,7 +22,8 @@
     "license": "CC BY-SA 4.0",
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "changes": "缩放；SVG转PNG（如适用）",
-    "kind": "解剖/医学插图"
+    "kind": "解剖/医学插图",
+    "ppt_localization": "图内英文以PPT原生文字层覆盖翻译；解剖像素和GIF各帧保持原始内容。对应关系见source/Chinese_labels.json。"
   },
   "knee_side.png": {
     "source": "https://commons.wikimedia.org/wiki/File:Blausen_0597_KneeAnatomy_Side.png",
@@ -29,7 +31,8 @@
     "license": "CC BY 3.0",
     "license_url": "https://creativecommons.org/licenses/by/3.0",
     "changes": "缩放；SVG转PNG（如适用）",
-    "kind": "解剖/医学插图"
+    "kind": "解剖/医学插图",
+    "ppt_localization": "图内英文以PPT原生文字层覆盖翻译；解剖像素和GIF各帧保持原始内容。对应关系见source/Chinese_labels.json。"
   },
   "ankle.png": {
     "source": "https://commons.wikimedia.org/wiki/File:Ankle_en.svg",
@@ -37,7 +40,8 @@
     "license": "Public domain",
     "license_url": "",
     "changes": "缩放；SVG转PNG（如适用）",
-    "kind": "解剖/医学插图"
+    "kind": "解剖/医学插图",
+    "ppt_localization": "图内英文以PPT原生文字层覆盖翻译；解剖像素和GIF各帧保持原始内容。对应关系见source/Chinese_labels.json。"
   },
   "achilles.jpg": {
     "source": "https://commons.wikimedia.org/wiki/File:Achilles_Tendon_Rupture.jpg",
@@ -85,7 +89,8 @@
     "license": "CC BY 4.0（原文）",
     "license_url": "https://creativecommons.org/licenses/by/4.0/",
     "changes": "提取图2(c1–c4)，按原顺序重排为GIF并标注；不是连续录像",
-    "kind": "真实比赛研究图帧序列（踝扭伤）"
+    "kind": "真实比赛研究图帧序列（踝扭伤）",
+    "ppt_localization": "图内英文以PPT原生文字层覆盖翻译；解剖像素和GIF各帧保持原始内容。对应关系见source/Chinese_labels.json。"
   },
   "football_kick.gif": {
     "source": "https://github.com/convderover/broadcast-kick-biomechanics",
@@ -93,7 +98,8 @@
     "license": "CC BY 4.0（仓库 docs/ 与 resultados/ 中的图文视频）",
     "license_url": "https://creativecommons.org/licenses/by/4.0/",
     "changes": "resultados/videos/07_golpeo_real_autor.mp4 转GIF，缩放、降帧、去音轨",
-    "kind": "作者本人正常踢球慢动作；非受伤录像、非损伤预测证据"
+    "kind": "作者本人正常踢球慢动作；非受伤录像、非损伤预测证据",
+    "ppt_localization": "图内英文以PPT原生文字层覆盖翻译；解剖像素和GIF各帧保持原始内容。对应关系见source/Chinese_labels.json。"
   },
   "foot_anatomy.png": {
     "source": "https://commons.wikimedia.org/wiki/File:Blausen_0411_FootAnatomy_zh.png",

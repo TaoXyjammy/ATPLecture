@@ -12,6 +12,7 @@ from pptx.enum.shapes import MSO_SHAPE,MSO_CONNECTOR
 from pptx.enum.text import PP_ALIGN
 ROOT=Path(__file__).resolve().parent;OUT=ROOT.parent;ASSET=ROOT/'assets'
 MEDIA=json.loads((ASSET/'MEDIA_SOURCES.json').read_text())
+LABELS=json.loads((ROOT/'Chinese_labels.json').read_text())
 B='3C5FA4';NAVY='243F83';PALE='EDF2FB';INK='20242A';GRAY='68707A';RED='B13A47';TEAL='327C80';FONT='Noto Sans CJK SC'
 KCPG='https://doi.org/10.2519/jospt.2023.0301';ACPG='https://doi.org/10.2519/jospt.2021.0302'
 FIFA='https://www.fifatrainingcentre.com/en/practice/grassroots/grassroots-and-youth-football-essentials/grassroots-coaching-essentials/optimising-warm-ups-u12-to-u15.php'
@@ -54,15 +55,38 @@ def explain(s,items):
  for i,(h,b) in enumerate(items):
   y=2.03+i*1.25;txt(s,f'{i+1:02d}',6.45,y,.55,.38,20,B,True);txt(s,h,7.1,y,5.5,.42,23,NAVY,True);txt(s,b,7.1,y+.47,5.48,.78,19)
 
+def chinese_labels(s,name,left,top,width,height):
+ # Document annotation only: masks and Chinese text are native PPT objects.
+ # Leaders, anatomical pixels and all animation frames are preserved.
+ im=Image.open(ASSET/name);iw,ih=im.size
+ for item in LABELS.get(name,[]):
+  x=left+item['x']/iw*width;y=top+item['y']/ih*height
+  w=item['w']/iw*width;h=item['h']/ih*height
+  box(s,x,y,w,h,item['fill'])
+  q=s.shapes.add_textbox(Inches(x),Inches(y),Inches(w),Inches(h))
+  tf=q.text_frame;tf.word_wrap=False;tf.margin_left=tf.margin_right=tf.margin_top=tf.margin_bottom=0
+  from pptx.enum.text import MSO_ANCHOR
+  tf.vertical_anchor=MSO_ANCHOR.MIDDLE
+  p=tf.paragraphs[0];p.text=item['chinese'];p.alignment=PP_ALIGN.CENTER
+  p.font.name=FONT;p.font.color.rgb=RGBColor.from_string(item['color'])
+  p.font.size=Pt(item['size_px']/iw*width*72)
+  p.space_after=Pt(0)
+  add_note(s,'图内中文标注：'+item['english']+' → '+item['chinese'])
+
 def picture(s,name,caption='解剖参考',x=.82,y=1.98,w=5.12,h=3.83):
  box(s,.65,1.88,5.42,4.25,'FFFFFF','DCE4F0')
  p=ASSET/name;im=Image.open(p);iw,ih=im.size;ratio=min(w/iw,h/ih);dw,dh=iw*ratio,ih*ratio
  q=s.shapes.add_picture(str(p),Inches(x+(w-dw)/2),Inches(y+(h-dh)/2),width=Inches(dw),height=Inches(dh))
+ chinese_labels(s,name,x+(w-dw)/2,y+(h-dh)/2,dw,dh)
  m=MEDIA.get(name,{})
- creators={'knee_ligaments.jpg':'Scientific Animations','meniscus.png':'BruceBlaus','patella.png':'InjuryMap','knee_side.png':'Blausen Medical','ankle.png':'Jak / Wikimedia','achilles.jpg':'BruceBlaus','plantar.png':'InjuryMap','shin.png':'InjuryMap','fracture.png':'Servier Medical Art','foot_anatomy.png':'Blausen Medical','tendinopathy.png':'Medical illustration','acl_match.gif':'Waldén et al., 2015','ankle_frames.gif':'Buckthorpe et al., 2025','football_kick.gif':'R. Martín Gutiérrez, 2026'}
- credit=f'{caption}  |  {creators.get(name,"来源见备注")}  |  {m.get("license","")}'
- credit=credit.replace('（论文及补充材料；非商业教学）','').replace('（原文）','').replace('（仓库 docs/ 与 resultados/ 中的图文视频）','')
- txt(s,credit,.83,5.91,5.08,.2,8.1,GRAY)
+ creators={'knee_ligaments.jpg':'科学动画','meniscus.png':'布劳森医学','patella.png':'损伤图谱','knee_side.png':'布劳森医学','ankle.png':'维基共享资源','achilles.jpg':'布劳森医学','plantar.png':'损伤图谱','shin.png':'损伤图谱','fracture.png':'施维雅医学图像','foot_anatomy.png':'布劳森医学','tendinopathy.png':'医学插图','acl_match.gif':'沃尔登等，2015','ankle_frames.gif':'巴克索普等，2025','football_kick.gif':'马丁·古铁雷斯，2026'}
+ license_name=m.get('license','')
+ if license_name.startswith('CC BY-SA'):license_name='署名—相同方式共享'
+ elif license_name.startswith('CC BY-NC'):license_name='署名—非商业性使用'
+ elif license_name.startswith('CC BY'):license_name='署名许可'
+ elif license_name=='Public domain':license_name='公有领域'
+ txt(s,caption,.83,5.86,5.08,.18,8.0,GRAY)
+ txt(s,'图源：'+creators.get(name,'来源见备注')+'｜'+license_name+'；原始署名及许可见备注',.83,6.03,5.08,.16,7.0,GRAY)
  add_note(s,'素材信息：'+json.dumps(m,ensure_ascii=False))
  return q
 
@@ -73,7 +97,7 @@ def pitch(s,label,kind='cut'):
  if kind in ['balance','plantar','tendon']:points=[(1.55,4.1),(3.05,3.3),(4.75,4.1)]
  if kind=='contact':points=[(1.6,3.5),(2.65,4.45),(4.65,3.5)]
  for i,(x,y) in enumerate(points):
-  box(s,x,y,.20,.20,B,kind=MSO_SHAPE.OVAL);txt(s,chr(65+i),x-.04,y-.36,.3,.3,14,NAVY,True)
+  box(s,x,y,.20,.20,B,kind=MSO_SHAPE.OVAL);txt(s,'甲乙丙丁'[i],x-.04,y-.36,.3,.3,14,NAVY,True)
   if i:
    px,py=points[i-1];line(s,px+.1,py+.1,x+.1,y+.1,TEAL,2)
  box(s,4.95,4.7,.22,.22,'FFFFFF',INK,MSO_SHAPE.OVAL)
@@ -87,6 +111,7 @@ def cover(anatomy):
  # Use a detailed anatomical image, cropped only by proportional placement.
  p=ASSET/anatomy;im=Image.open(p);iw,ih=im.size;scale=min(4.4/iw,4.1/ih);dw,dh=iw*scale,ih*scale
  s.shapes.add_picture(str(p),Inches(8+(4.4-dw)/2),Inches(1.9+(4.1-dh)/2),width=Inches(dw),height=Inches(dh));add_note(s,'封面配图：'+json.dumps(MEDIA[anatomy],ensure_ascii=False))
+ chinese_labels(s,anatomy,8+(4.4-dw)/2,1.9+(4.1-dh)/2,dw,dh)
  band(s,'讲解路径：损伤机制 → 诊断线索 → 主要功能障碍 → 足球中的预防')
  return s
 
@@ -136,7 +161,7 @@ def reference_pages():
  add_note(s,'实际查阅GitHub：'+GITHUB+'；其正常踢球视频不是受伤录像，也不能用其模型结果进行个人损伤预测。另查阅MonaElkhouly/Biomechanics-Final-Project-ACL-Injuries-for-female-football-player-Analysi-，未将未明确授权的素材重新分发。')
 
 KNEE=[
- dict(num='一',name='前交叉韧带损伤',page='136',img='knee_ligaments.jpg',caption='三维结构参考：1 ACL；2 PCL；3 MCL；4 LCL',
+ dict(num='一',name='前交叉韧带损伤',page='136',img='knee_ligaments.jpg',caption='三维参考：①前交叉 ②后交叉 ③内侧副韧带 ④外侧副韧带',
  mechanism=[('足球中的典型情境','逼抢急停、变向或争顶落地，常见非接触性机制。'),('教材所述受力','落地不良姿势、足部固定时扭转，或膝过伸。'),('结构与作用','ACL限制胫骨过度前移，参与膝关节旋转稳定。')],mechanism_key='足球中的“脚已着地、身体仍转向”，需要关注支撑与减速控制。',
  diagnosis=[('诊断线索：病史','响声、剧痛、急性肿胀、不能继续运动；后期可打软腿。'),('诊断线索：检查','教材列 Lachman、前抽屉试验；必要时结合影像。'),('主要功能障碍','急性痛肿与活动受限；慢性可肌力下降、步态和不稳异常。')],diagnosis_key='打软腿、急性肿胀和运动受限需综合评估，也要关注合并损伤。',
  prevention=[('练减速与变向','低速绕标起步，逐步增加速度与持球干扰，反馈支撑控制。'),('练力量与落地','将髋膝力量、近端控制、跳跃落地纳入组合训练。'),('把预防持续做下去','季前开始并在赛季保持；不要只在比赛前偶尔做一次。')],drill='绕标减速 → 方向变化 → 接球',prevention_key='ACL预防以持续的多组分训练为核心，单个姿势不能预测谁会受伤。',
@@ -146,7 +171,7 @@ KNEE=[
  diagnosis=[('诊断线索：症状与触诊','交锁、卡顿、错动感；内外侧关节线压痛。'),('诊断线索：专项检查','McMurray、Apley、Thessaly；\n必要时结合 MRI 综合判断。'),('主要功能障碍','急性痛肿、活动受限；慢性可在急停急转或屈膝时疼痛。')],diagnosis_key='卡顿与真正交锁要区分，专项试验不能单独确认撕裂。',
  prevention=[('把转身拆成步法','从连续小步换向开始，减少足被固定时强行扭转身体。'),('逐步增加任务难度','无对抗带球 → 方向变化 → 可控对抗，关注疲劳下动作。'),('持续追踪症状','出现关节线痛、卡顿或交锁时调整训练，及时专业评估。')],drill='小步转身 → 带球换向',prevention_key='本页为依据机制的足球训练建议，不把某一练习当作半月板损伤预防保证。',
  note='按教材半月板损伤之损伤机制讲解。图示结构为参考，不表示某个真实球员的撕裂形态。',prevention_note='教材机制导向归纳，配合足球教练组织原则。既往损伤者由医疗与康复专业人员协同决定参与。',evidence=FIFA,summary_scene='支撑脚转身、负重扭转',summary_prevent='步法调整、渐进对抗、症状反馈'),
- dict(num='三',name='副韧带损伤',page='138',img='knee_ligaments.jpg',caption='三维结构参考：3 MCL；4 LCL',
+ dict(num='三',name='副韧带损伤',page='138',img='knee_ligaments.jpg',caption='三维结构参考：③内侧副韧带 ④外侧副韧带',
  mechanism=[('内侧副韧带','外翻应力牵拉内侧支持结构，可合并其他损伤。'),('外侧副韧带','内翻应力相关；还需关注邻近外侧结构。'),('足球中的接触情境','铲抢或侧向碰撞时，膝关节姿态与外力方向共同作用。')],mechanism_key='先说明膝关节如何变形，再判断哪一侧结构被牵拉。',
  diagnosis=[('诊断线索：局部表现','内侧或外侧较表浅疼痛，急性期可肿胀与屈伸受限。'),('诊断线索：检查','教材列内翻、外翻应力试验；MRI明确相关损伤。'),('主要功能障碍','急性痛肿；慢性可肌力和活动度下降，行走运动不稳。')],diagnosis_key='疼痛侧、受力机制、侧向稳定与功能表现应互相印证。',
  prevention=[('规范对抗与抢断','练合法接近与身体控制，限制失控侧撞与危险铲抢。'),('分层增加对抗强度','无对抗技术 → 可控接触 → 比赛情境，保持足够间距。'),('接触后及时识别','侧方疼痛、肿胀或不稳时停止对抗，避免继续强行变向。')],drill='分区对抗，先技术后强度',drill_kind='contact',prevention_key='规范对抗能管理接触风险，不能把护具或力量训练当作零受伤保证。',
@@ -207,6 +232,7 @@ def build(topic,chapter,section,pages,data,filename):
  # One small normal-action GIF on the cover's picture, with an explicit caption; anatomy remains the main graphic.
  s=R.slides[0]
  s.shapes.add_picture(str(ASSET/'football_kick.gif'),Inches(6.65),Inches(3.93),width=Inches(1.6),height=Inches(1.78))
+ chinese_labels(s,'football_kick.gif',6.65,3.93,1.6,1.78)
  txt(s,'正常踢球 · 非受伤录像',6.6,5.76,2.0,.23,8,GRAY,False,PP_ALIGN.CENTER)
  add_note(s,'封面正常踢球GIF：'+json.dumps(MEDIA['football_kick.gif'],ensure_ascii=False))
  for i,s in enumerate(R.slides):

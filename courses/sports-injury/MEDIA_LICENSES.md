@@ -117,3 +117,7 @@ derivative work: GnolizX
 - 许可：CC BY 4.0；https://creativecommons.org/licenses/by/4.0
 - 修改：SVG转PNG或缩放
 - 类型：人体医学插图
+
+## 中文标注说明
+
+本次中文化在PPT内增加可编辑的遮盖和中文文字层，不改动原始解剖图和GIF各帧；完整标注对应表见source/Chinese_labels.json。正式署名、许可和来源记录保留。
